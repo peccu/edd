@@ -1,3 +1,9 @@
+Oh... Google is already preparing. http://highscalability.com/blog/2016/7/6/machine-learning-driven-programming-a-new-programming-for-a.html
+
+
+
+
+
 # EDD: Example Driven Development
 my thought of Example Driven Development. inspired by http://www.wilfred.me.uk/blog/2016/07/30/example-driven-development/
 
